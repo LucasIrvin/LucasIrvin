@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="100" src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif"  />
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
@@ -40,6 +36,10 @@
 
 ###
 
+<img align="left" height="100" src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif"  />
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -48,10 +48,6 @@
   <img src="https://streak-stats.demolab.com?user=LucasIrvin&locale=en&mode=daily&theme=ocean_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasIrvin&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/LucasIrvin/LucasIrvin/output/snake.svg" alt="Snake animation" />
 
 ###
 
