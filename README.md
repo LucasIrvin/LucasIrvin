@@ -81,3 +81,5 @@
 </div>
 
 ###
+
+  ![Snake animation](https://github.com/smarticogit/smarticogit/blob/main/.github/workflows/cobrinha.svg)
