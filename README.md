@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">- Java Student<br>- Technology student<br>- Looking for a job</p>
+<p align="left">- Technology student<br>- Looking for a job</p>
 
 ###
 
@@ -17,17 +17,17 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="40" alt="eclipseide logo"  />
   <img width="12" />
@@ -47,10 +47,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasIrvin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasIrvin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=LucasIrvin&locale=en&mode=daily&theme=ocean_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasIrvin&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasIrvin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasIrvin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasIrvin&radius=16&theme=github-light&area=true&order=5&hide_border=false&custom_title=Lucas%20Irvin" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -82,4 +81,4 @@
 
 ###
 
-  ![Snake animation](https://github.com/smarticogit/smarticogit/blob/main/.github/workflows/cobrinha.svg)
+![Snake animation](https://github.com/smarticogit/smarticogit/blob/main/.github/workflows/cobrinha.svg)
